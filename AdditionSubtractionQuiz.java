@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.function.IntBinaryOperator;
 
-public class AdditionSubtractionQuiz {
+public final class AdditionSubtractionQuiz {
 
     private AdditionSubtractionQuiz(){}
 
